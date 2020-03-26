@@ -24,17 +24,23 @@ body {
 }
 
 section {
-  display: flex;
+  display: column;
+  align-items: center;
+  justify-content: center;
   padding: 96px 0;
+  text-align: center;
+}
+
+.box {
+  position: relative;
+  padding: 20px;
+  max-width: 400px;
 }
 
 /* Song */
 
 .box-song {
-  position: relative;
-  padding: 20px;
   background: #f3f3f3;
-  max-width: 400px;
   text-align: left;
 }
 
@@ -54,6 +60,6 @@ section {
 
 /* Hello-world */
 
-.hello-world {
+ .box-hello-world {
 background: yellow;
-} 
+}
