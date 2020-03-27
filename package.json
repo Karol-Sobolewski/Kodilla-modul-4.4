@@ -19,5 +19,9 @@
   "homepage": "https://github.com/Karol-Sobolewski/Kodilla-modul-4.4#readme",
   "devDependencies": {
     "browser-sync": "^2.26.7"
+  },
+  "dependencies": {
+    "autoprefixer-cli": "^1.0.0",
+    "html-validate": "^2.19.0"
   }
 }
