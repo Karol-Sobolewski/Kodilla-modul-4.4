@@ -22,6 +22,6 @@
   },
   "dependencies": {
     "autoprefixer-cli": "^1.0.0",
-    "html-validate": "^2.19.0"
+    "html-validate": "^6.1.1"
   }
 }
